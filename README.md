@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nguyen Thuy
+<h2>👋 Hi, I’m Nguyen Thuy </h2>
 - 🌍 I’m passionate about exploring new travel experiences and love discovering new music.
 - 💻 Currently diving into the world of information technology and always excited about learning new technologies.
 - 📧 Feel free to reach out via email: nguyenthuy16112020@gmail.com or connect with me on Facebook: https://www.facebook.com/thuy.f1611.
