@@ -3,7 +3,7 @@
   <ul>
     <li>🌍 I’m passionate about exploring new travel experiences and love discovering new music.</li>
     <li>💻 Currently diving into the world of information technology and always excited about learning new technologies.</li>
-    <li>📧 Feel free to reach out via email: <a href="mailto:nguyenthuy16112020@gmail.com">nguyenthuy16112020@gmail.com</a> or connect with me on Facebook: <a href="https://www.facebook.com/thuy.f1611">Thuy's Facebook</a>.</li>
+    <li>📧 Feel free to reach out via email: "nguyenthuy16112020@gmail.com" or connect with me on Facebook: <a href="https://www.facebook.com/thuy.f1611">Thuy's Facebook</a>.</li>
     <li>⚡ Fun fact: I’m always eager to learn about the latest advancements in technology!</li>
   </ul>
 </p>
